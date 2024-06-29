@@ -1,0 +1,33 @@
+[
+    {
+        "_id": "item001",
+        "age": 25,
+        "colour": "red",
+        "name": "Sample Item 1"
+    },
+    {
+        "_id": "item002",
+        "age": 30,
+        "colour": "blue",
+        "name": "Sample Item 2"
+    },
+    {
+        "_id": "item003",
+        "age": 22,
+        "colour": "green",
+        "name": "Sample Item 3"
+    },
+    {
+        "_id": "item004",
+        "age": 40,
+        "colour": "yellow",
+        "name": "Sample Item 4"
+    },
+    {
+        "_id": "item005",
+        "age": 35,
+        "colour": "black",
+        "name": "Sample Item 5"
+    }
+   
+]
